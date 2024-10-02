@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TODO Describe what your plugin does here
+Acces the Jenkins User and display the Login and Logout user with there usernanme and show the name of new user when it is created.
 
 ## Getting started
 
